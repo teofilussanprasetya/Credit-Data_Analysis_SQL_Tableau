@@ -12,7 +12,7 @@ Financial institutions often struggle with assessing creditworthiness and managi
 
 ## Entity-Relationship Diagram (ERD)
 
-![ERD Customer Credit Data](./Image/ERD Customer credit data.png)
+![ERD Customer Credit Data](Image/ERD_Customer_credit_data.png)
 
 ## Data Cleaning
 
@@ -52,7 +52,7 @@ Financial institutions often struggle with assessing creditworthiness and managi
    Payment trends were analyzed over time to identify periods of increased financial strain.
 
 ## Tableau Dashboard Overview
-![Dashboard Overview](Image/Client Credit Status and Delinquency Insights.png)
+![Dashboard Overview](Image/Client_Credit_Status_and_Delinquency_Insights.png)
 
 
 1. **Credit Delay Status**: 
