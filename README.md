@@ -2,6 +2,9 @@
 
 ## Client Credit Status and Delinquency Insights
 
+#### Dataset : https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction 
+#### Dashboard : https://public.tableau.com/views/ClientCreditStatusandDelinquencyInsight/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
 ### Executive Summary
 
 This project focuses on analyzing client credit status and delinquency to provide actionable insights for financial institutions. By leveraging a comprehensive dataset of client applications and payment history, we performed data cleaning, exploratory data analysis (EDA), and visualized key metrics using SQL and Tableau. These insights aim to improve credit risk assessment, optimize lending strategies, and enhance customer relationship management. Key findings include patterns in overdue payments, client demographics affecting delays, and the impact of income levels and property ownership on delinquency. This analysis empowers stakeholders to make informed decisions regarding credit risk management.
